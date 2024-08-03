@@ -6,7 +6,7 @@ I'm an amateur developer passionate about innovation and constantly striving to 
 especially those involving Machine Learning and Web Development .
 
 - 🔍 I’m looking for a collaboration project on web development.
-- 🌱 What I'm Learning React
+- 🌱 What I'm Learning: React
 - 💬 Ask me about JavaScript, WebSocket, and Web 3.0
 - 📫 How to reach me: g.ravindran.in@gmail.com
 - ⚡ Fun fact: There are only 10 types of people in the world: Those who understand binary, and those who don't.
