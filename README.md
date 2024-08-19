@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an amateur developer passionate about innovation and constantly striving to be Plus Ultra! I'm currently pursuing B.Tech in CSE at Amrita Vishwa Vidyapeetham. I enjoy working on a variety of projects,
+I'm an amateur developer passionate about innovation and constantly striving to be Plus Ultra! I enjoy working on a variety of projects,
 especially those involving Machine Learning and Web Development .
 
 - 🔍 I’m looking for a collaboration project on web development.
