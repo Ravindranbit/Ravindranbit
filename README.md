@@ -11,7 +11,6 @@ I love building innovative projects that blend **Web Development** with **cuttin
 - 🤝 Open to collaborating on fullstack or open-source projects
 - 💬 Ask me about `JavaScript`, `WebSocket`, `Web 3.0`, or `Hackathons`
 - ✉️ Reach me at: **gravindran058@gmail.com**
-- ⚡ Fun Fact: *There are only 10 types of people in the world — those who understand binary, and those who don’t.*
 
 ---
 
@@ -31,9 +30,8 @@ I love building innovative projects that blend **Web Development** with **cuttin
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🧾 **GST Invoice Scanner** | Mobile app that extracts GST details from any invoice using OCR | React Native, Node.js, MongoDB |
 | 🏠 **Real Estate Platform** | A sleek property listing site with an admin dashboard & map integration | MERN Stack |
-| 🤖 **Gesture Recognition** | Hand gesture detection using ESP32 and computer vision | Python, Arduino, OpenCV |
+| 🔗 **Connect** | A smart platform to bridge students and opportunities — events, internships, and hackathons — tailored to their interests and skillsets | React, Node.js, MongoDB, Tailwind CSS |
 
 ---
 
