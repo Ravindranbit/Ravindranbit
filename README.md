@@ -1,12 +1,55 @@
-# Hi, I'm Ravindran G! 👋
+# 👋 Hi, I'm Ravindran G!
 
-## About Me
+🚀 An aspiring **Fullstack Developer** & **ML Enthusiast**, always striving to be *Plus Ultra* 💥  
+I love building innovative projects that blend **Web Development** with **cutting-edge tech** like **Machine Learning** and **Web 3.0**.
 
-I'm an amateur developer passionate about innovation and constantly striving to be Plus Ultra! I enjoy working on a variety of projects,
-especially those involving Machine Learning and Web Development .
+---
 
-- 🔍 I’m looking for a collaboration project on web development.
-- 🌱 What I'm Learning: React
-- 💬 Ask me about JavaScript, WebSocket, and Web 3.0
-- 📫 How to reach me: gravindran058@gmail.com
-- ⚡ Fun fact: There are only 10 types of people in the world: Those who understand binary, and those who don't.
+## 🌟 About Me
+
+- 🎯 Focused on mastering **React**, **Node.js**, and **MongoDB**
+- 🤝 Open to collaborating on fullstack or open-source projects
+- 💬 Ask me about `JavaScript`, `WebSocket`, `Web 3.0`, or `Hackathons`
+- ✉️ Reach me at: **gravindran058@gmail.com**
+- ⚡ Fun Fact: *There are only 10 types of people in the world — those who understand binary, and those who don’t.*
+
+---
+
+## 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🧾 **GST Invoice Scanner** | Mobile app that extracts GST details from any invoice using OCR | React Native, Node.js, MongoDB |
+| 🏠 **Real Estate Platform** | A sleek property listing site with an admin dashboard & map integration | MERN Stack |
+| 🤖 **Gesture Recognition** | Hand gesture detection using ESP32 and computer vision | Python, Arduino, OpenCV |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ravindranbit&show_icons=true&theme=react" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravindranbit&theme=react" width="450"/>
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<p align="left">
+  <a href="mailto:gravindran058@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ravindrang/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
+  <a href="https://github.com/Ravindranbit" target="_blank"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/></a>
+</p>
