@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ravindran G!
 
-🚀 An aspiring **Fullstack Developer** & **ML Enthusiast**, always striving to be *Plus Ultra* 💥  
+🚀 An aspiring **Fullstack Developer** & **ML Enthusiast**, 
 I love building innovative projects that blend **Web Development** with **cutting-edge tech** like **Machine Learning** and **Web 3.0**.
 
 ---
