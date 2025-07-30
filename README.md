@@ -8,7 +8,7 @@ I love building innovative projects that blend **Web Development** with **cuttin
 ## 🌟 About Me
 
 - 🎯 Focused on mastering **React**, **Node.js**, and **MongoDB**
-- 🤝 Open to collaborating on fullstack or open-source projects
+- 🤝 Open to collaborating on open-source projects
 - 💬 Ask me about `JavaScript`, `WebSocket`, `Web 3.0`, or `Hackathons`
 - ✉️ Reach me at: **gravindran058@gmail.com**
 
