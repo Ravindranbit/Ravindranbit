@@ -26,14 +26,6 @@ I love building innovative projects that blend **Web Development** with **cuttin
 
 ---
 
-## 📂 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🏠 **Real Estate Platform** | A sleek property listing site with an admin dashboard & map integration | MERN Stack |
-| 🔗 **Connect** | A smart platform to bridge students and opportunities — events, internships, and hackathons — tailored to their interests and skillsets | React, Node.js, MongoDB, Tailwind CSS |
-
----
 
 ## 📈 GitHub Stats
 
